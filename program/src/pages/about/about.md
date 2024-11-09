@@ -1,10 +1,13 @@
 ---
 title: about
-name: "Cezar Kelso"
-designation: "Senior Detective"
-location: Los Angeles, CA 90001
-pronouns: "he/him/el"
-website: "http://tafutza.hn/kos"
+name: "Takumi Hariu"
+occupation: "front-end engineer"
+pronouns: "ja"
+location: Japan, Sendai
+website: ""
 ---
 
-Highly skilled and experienced law enforcement professional with over two decades of service in various specialized units. Adept at conducting complex investigations, coordinating tactical operations, and providing leadership in high-pressure situations. Known for exceptional problem-solving abilities, strategic thinking, and dedication to upholding the law. Seeking opportunities to leverage expertise in a challenging environment where I can continue to make a meaningful impact.
+こんにちは、私は[Takumi Hariu]です。フロントエンドエンジニアとして4年の経験があります。
+UI/UXデザインにも関心があり、ユーザーエクスペリエンスを向上させるための最適なソリューションを常に模索しています。
+新しい技術やトレンドに対する好奇心が強く、継続的な学習を通じてスキルを磨いています。私の目標は、ユーザーにとって使いやすく、視覚的にも優れたウェブアプリケーションを作り続けることです。
+どうぞよろしくお願いします。

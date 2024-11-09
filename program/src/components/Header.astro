@@ -4,23 +4,17 @@ import * as about from "../pages/about/about.md";
 ---
 
 <header class="mx-auto pt-6 pb-2 relative">
-  <article
-    class="flex flex-col md:flex-col items-center gap-4 w-full max-w-2xl"
-  >
-    <div
-      class="flex-shrink-0 w-20 md:w-24 rounded-full shadow-sm overflow-hidden"
-    >
+  <article class="flex flex-col md:flex-col items-center gap-4 w-full max-w-2xl">
+    <div class="flex-shrink-0 w-20 md:w-24 rounded-full shadow-sm overflow-hidden">
       <img
         alt="avatar"
-        src="/profile.webp"
+        src="/logo.png"
         class="grayscale-[50] hover:grayscale-0"
       />
     </div>
 
     <div class="text-center">
-      <div
-        class="flex justify-center md:justify-between items-center mb-2 relative"
-      >
+      <div class="flex justify-center md:justify-between items-center mb-2 relative">
         <h1 class="text-3xl font-extrabold tracking-tight md:text-3xl relative">
           {about.frontmatter.name}
           <div class="absolute top-0 left-full ml-2 -mt-4">
@@ -31,7 +25,7 @@ import * as about from "../pages/about/about.md";
         </h1>
       </div>
       <h2 class="text-lg mb-2 text-secondary">
-        {about.frontmatter.designation}
+        {about.frontmatter.occupation}
       </h2>
       <div class="flex items-center justify-center mt-1">
         <Icon name="carbon:location" class="w-4 h-4 mr-1" />
